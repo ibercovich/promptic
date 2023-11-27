@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Introduction to Unknown Whole Numbers",
+    "content": "<p>Hi, kids! 😃 Today, we're going to learn about solving <b>math problems</b> with an <u>unknown whole number</u> involving addition or subtraction.</p><p>These problems are like puzzles where we need to find the missing piece to complete the picture. 🧩 Let's get started!</p>",
+    "tutorNotes": "<p>Welcome the students and introduce the topic. Explain that they will be learning about solving problems with unknown whole numbers involving addition or subtraction.</p>"
+  },
+  {
+    "title": "Examples of Unknown Whole Number Problems",
+    "content": "<p>Here are some examples of problems we will learn to solve:</p><ul><li><b>Addition:</b> 3 + ⭐ = 7</li><li><b>Subtraction:</b> 9 - ⭐ = 4</li></ul><p>We'll learn different methods to solve these problems and find the value of the <u>unknown whole number</u> (⭐).</p>",
+    "tutorNotes": "<p>Show the students examples of unknown whole number problems in addition and subtraction. Explain that they will learn different methods to solve these problems and find the value of the unknown whole number.</p>"
+  },
+  {
+    "title": "Method 1: Counting On",
+    "content": "<p>👍 <b>Counting On</b> is our first method to solve addition problems with unknown whole numbers. Let's see how it works:</p><p>Example: 3 + ⭐ = 7</p><p>Start at the first number (3) and count up until you reach the total (7). The number of steps you take is the unknown whole number.</p><p>3, 4, 5, 6, 7 -> 4 steps</p><p>So, ⭐ = 4.</p>",
+    "tutorNotes": "<p>Introduce the first method, Counting On, for solving addition problems. Explain the steps using an example problem. Make sure students understand the concept before moving on to the next method.</p>"
+  },
+  {
+    "title": "Method 2: Counting Back",
+    "content": "<p>👍 <b>Counting Back</b> is our second method to solve subtraction problems with unknown whole numbers. Let's see how it works:</p><p>Example: 9 - ⭐ = 4</p><p>Start at the total (9) and count down until you reach the other number (4). The number of steps you take is the unknown whole number.</p><p>9, 8, 7, 6, 5, 4 -> 5 steps</p><p>So, ⭐ = 5.</p>",
+    "tutorNotes": "<p>Introduce the second method, Counting Back, for solving subtraction problems. Explain the steps using an example problem. Make sure students understand the concept before moving on to the next method.</p>"
+  },
+  {
+    "title": "Method 3: Addition to Subtraction",
+    "content": "<p>👍 <b>Addition to Subtraction</b> is our third method, which helps us convert subtraction problems into addition problems. Let's see how it works:</p><p>Example: 9 - ⭐ = 4</p><p>Convert the problem into an addition problem: ⭐ + 4 = 9</p><p>Now, we can use the <b>Counting On</b> method to solve it: 4, 5, 6, 7, 8, 9 -> 5 steps</p><p>So, ⭐ = 5.</p>",
+    "tutorNotes": "<p>Introduce the third method, Addition to Subtraction, for converting subtraction problems into addition problems. Explain the steps using an example problem. Make sure students understand the concept before moving on to the next method.</p>"
+  },
+  {
+    "title": "Method 4: Using a Number Line",
+    "content": "<p>👍 <b>Using a Number Line</b> is our fourth method to solve unknown whole number problems. Let's see how it works:</p><p>Example: 3 + ⭐ = 7</p><p>Draw a number line with the numbers 0 to 10. Start at the first number (3) and move forward until you reach the total (7). The number of steps you take is the unknown whole number.</p><p>3 -> 4 -> 5 -> 6 -> 7 -> 4 steps</p><p>So, ⭐ = 4.</p>",
+    "tutorNotes": "<p>Introduce the fourth method, Using a Number Line, for solving unknown whole number problems. Explain the steps using an example problem. Make sure students understand the concept before moving on to practice problems.</p>"
+  },
+  {
+    "title": "Practice Problem: Addition",
+    "content": "<p>🧠 Let's practice solving an addition problem using the methods we learned:</p><p>5 + ⭐ = 10</p><p>Try solving this problem using the <b>Counting On</b> method and the <b>Using a Number Line</b> method.</p>",
+    "tutorNotes": "<p>Present a practice problem for addition. Guide the students through solving the problem using the Counting On and Using a Number Line methods. Provide assistance and clarification as needed.</p><p><b>Answer:</b> ⭐ = 5</p>"
+  },
+  {
+    "title": "Practice Problem: Subtraction",
+    "content": "<p>🧠 Let's practice solving a subtraction problem using the methods we learned:</p><p>8 - ⭐ = 3</p><p>Try solving this problem using the <b>Counting Back</b> method and the <b>Addition to Subtraction</b> method.</p>",
+    "tutorNotes": "<p>Present a practice problem for subtraction. Guide the students through solving the problem using the Counting Back and Addition to Subtraction methods. Provide assistance and clarification as needed.</p><p><b>Answer:</b> ⭐ = 5</p>"
+  },
+  {
+    "title": "Independent Practice: More Problems",
+    "content": "<p>Great job! 😊 Now, let's practice some more problems on your own:</p><ul><li>6 + ⭐ = 11</li><li>10 - ⭐ = 5</li><li>4 + ⭐ = 9</li><li>7 - ⭐ = 2</li></ul><p>Remember to use the methods we learned today. Good luck! 🍀</p>",
+    "tutorNotes": "<p>Provide the students with a set of problems to work on independently. Encourage them to use the methods they learned to solve the problems. Offer assistance and guidance as needed.</p><p><b>Answers:</b> 1) ⭐ = 5, 2) ⭐ = 5, 3) ⭐ = 5, 4) ⭐ = 5</p>"
+  },
+  {
+    "title": "Lesson Wrap Up",
+    "content": "<p>🎉 Congratulations! You've learned how to solve unknown whole number problems involving addition and subtraction. Keep practicing and you'll become a math whiz! 🧠💪</p>",
+    "tutorNotes": "<p>Congratulate the students on their progress and encourage them to continue practicing. Remind them that practice is the key to success in math.</p>"
+  }
+]
